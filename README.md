@@ -1,2 +1,2 @@
-# java-gui-repo
-java로 구현한 GUI 모음
+# java-repo
+java로 구현한 기능 모음
